@@ -95,13 +95,13 @@
 	
 	<distributionManagement>
 	    <repository>
-	      <id>nexus</id>
+	      <id>nexus3</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://13.40.76.214:5000/repository/maven-web-app-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>nexus3</id>
 	      <name>Landmark Technologieshttp Snapshot Nexus Repository </name>
 	      <url>http://13.40.76.214:5000/repository/maven-web-app-snapshot/</url>
 	    </snapshotRepository>
